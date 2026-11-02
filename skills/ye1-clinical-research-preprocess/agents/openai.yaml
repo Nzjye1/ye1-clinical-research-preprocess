@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ye1 临床科研数据预处理"
+  short_description: "在本地整理临床科研表格，生成保留研究信息的工作副本。"
+  default_prompt: "使用 $ye1-clinical-research-preprocess，请在我的电脑上处理这份临床科研表格，生成供后续分析使用的工作副本。"
